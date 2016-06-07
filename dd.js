@@ -1,7 +1,7 @@
 /* J A V A S C R I P T
  * For DouglasDrenkow.com
  *
- * jquery-1.11.2.min.js ALSO CALLED, FROM HEAD OF WEB PAGES
+ * jquery-1.11.2.min.js ALSO CALLED, FROM FOOT OF WEB PAGES
  *
  * PRELOAD IMAGES, called for common images on each page (ex. logo).
  * HEADER POSITIONING, to allow for length of navMenu.
