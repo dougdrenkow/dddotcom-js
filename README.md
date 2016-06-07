@@ -1,4 +1,2 @@
 # dddotcom-js
-JS for http://douglasdrenkow.com
-
-See also https://github.com/dougdrenkow/dddotcom-php and https://github.com/dougdrenkow/dddotcom-css.
+jQuery and other JavaScript code for my portfolio, http://douglasdrenkow.com, featuring some nifty functions traversing and manipulating the DOM, freely adapted from other sources.
